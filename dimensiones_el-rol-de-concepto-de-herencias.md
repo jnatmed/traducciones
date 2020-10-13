@@ -1,3 +1,5 @@
+[Volver al Indice](README.md)
+
 ### Dimensiones: El Rol del concepto de Herencia
 
 Una jerarquía de conceptos define una secuencia de mapeos desde un conjunto de conceptos de bajo nivel a conceptos de nivel superior y más generales. Considere una jerarquía de conceptos para la dimensión ubicación. Los valores de ciudad para la ubicación incluyen Vancouver, Toronto, Nueva York y Chicago. Sin embargo, cada ciudad se puede asignar a la provincia o estado al que pertenece. Por ejemplo, Vancouver se puede asignar a Columbia Británica y Chicago a Illinois. Las provincias y los estados, a su vez, pueden asignarse al país (por ejemplo, Canadá o Estados Unidos) al que pertenecen. Estos mapeos forman una jerarquía de conceptos para la dimension ubicacion, mapeando un conjunto de conceptos de bajo nivel (por ejemplo ciudades) a alto nivel, hacia conceptos mas generales (por ejemplo paises). Este concepto de herencia esta ilustrado en la figura 4.9.

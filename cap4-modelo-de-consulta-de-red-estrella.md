@@ -1,3 +1,5 @@
+[Volver al Indice](README.md)
+
 Un modelo de consulta de red estrella para consultar bases de datos multidimensionales
  
 La consulta de bases de datos multidimensionales puede basarse en un modelo de red estrella, que consiste en líneas radiales que emanan de un punto central, donde cada línea representa una jerarquía de conceptos para una dimensión. Cada nivel de abstracción en la jerarquía se llama huella. Estos representan las granularidades disponibles para su uso por las operaciones OLAP, como el desglose y el roll-up.
